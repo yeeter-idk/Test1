@@ -1,0 +1,16 @@
+body{
+  background-color:#212121;
+  color:#dcdcdc;
+  font-family: 'Press Start 2P', ariel;
+  font-size:10px;
+}
+
+canvas{
+  width:100%;
+  border-radius:10px;
+}
+
+@keyframes hide {
+  0%   {opacity:1;}
+  100% {opacity:0;}
+}
